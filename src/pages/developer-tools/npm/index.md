@@ -34,5 +34,6 @@ Running npm install in a project's root directory without a specific package nam
 * The official website of npm, you can read about npm as well as search for the different available packages: <a href='https://www.npmjs.com' target='_blank' rel='nofollow'>npmjs</a>
 * Read more about npm: <a href='https://en.wikipedia.org/wiki/Npm_(software)' target='_blank' rel='nofollow'>Wikipedia</a>
 * A Beginner's Guide to NPM: <a href='https://www.sitepoint.com/beginners-guide-node-package-manager/' target='_blank' rel='nofollow'>sitepoint</a>
+* Read about npm best practices: <a href='https://blog.risingstack.com/nodejs-at-scale-npm-best-practices/' target='_blank' rel='nofollow'>blog.risingstack.com</a> 
 * If you want a comprehensive video series, check this out: <a href='https://youtu.be/6fj0cpmMiVg' target='_blank' rel='nofollow'>youtube</a>
 * And here's the official series from NPM: <a href='https://youtu.be/pa4dc480Apo' target='_blank' rel='nofollow'>youtube</a>
